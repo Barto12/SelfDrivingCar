@@ -1,6 +1,5 @@
 # Self-driving-car
 
-This is the code I wrote during the Self-driving car (no libraries) JavaScript course:
 
   
 The code will appear as the course progresses and will be divided into parts as follows:
